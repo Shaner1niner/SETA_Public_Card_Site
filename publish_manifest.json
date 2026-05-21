@@ -1,5 +1,5 @@
 {
-  "published_at_utc": "2026-05-21T04:40:00Z",
+  "published_at_utc": "2026-05-21T04:41:01Z",
   "source_dir": "artifacts/public_card_site",
   "publish_dir": "docs/public_card_site",
   "file_count": 1,
@@ -10,5 +10,5 @@
   "display_safe_card_rows": 60,
   "latest_quality_status": "small_sample",
   "latest_prediction_date": "2026-05-18",
-  "latest_run_id": "seta_card_pipeline_20260521_043952_841880"
+  "latest_run_id": "seta_card_pipeline_20260521_044053_319364"
 }
