@@ -9,6 +9,6 @@ It is intended for GitHub Pages or another static host.
 - Display-safe cards: `122`
 - Latest quality status: `small_sample`
 - Latest prediction date: `2026-05-18`
-- Latest run ID: `seta_card_pipeline_20260607_020013_357722`
+- Latest run ID: `seta_card_pipeline_20260608_020014_815581`
 
 Open `index.html` to view the generated public-card display.
