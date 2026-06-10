@@ -6,9 +6,9 @@ It is intended for GitHub Pages or another static host.
 ## Current bundle metadata
 
 - Schema version: `public_card_display_bundle_v0_1`
-- Display-safe cards: `122`
+- Display-safe cards: `634`
 - Latest quality status: `small_sample`
-- Latest prediction date: `2026-05-18`
-- Latest run ID: `seta_card_pipeline_20260610_020011_878141`
+- Latest prediction date: `2026-06-08`
+- Latest run ID: `seta_card_pipeline_20260610_041347_981592`
 
 Open `index.html` to view the generated public-card display.

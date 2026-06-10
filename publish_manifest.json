@@ -1,5 +1,5 @@
 {
-  "published_at_utc": "2026-06-10T02:00:19Z",
+  "published_at_utc": "2026-06-10T04:13:53Z",
   "source_dir": "artifacts/public_card_site",
   "publish_dir": "docs/public_card_site",
   "file_count": 1,
@@ -7,8 +7,8 @@
     "index.html"
   ],
   "schema_version": "public_card_display_bundle_v0_1",
-  "display_safe_card_rows": 122,
+  "display_safe_card_rows": 634,
   "latest_quality_status": "small_sample",
-  "latest_prediction_date": "2026-05-18",
-  "latest_run_id": "seta_card_pipeline_20260610_020011_878141"
+  "latest_prediction_date": "2026-06-08",
+  "latest_run_id": "seta_card_pipeline_20260610_041347_981592"
 }
